@@ -1,0 +1,164 @@
+mandelbrot_sec 1024 1024 100 prueba1_I100_D0 0
+
+  *************** POSIBLES PARÁMETROS ***************
+  * Ancho imagen: pixelXmax                         *
+  * Alto imagen: pixelYmax                          *
+  * Numero de iteraciones: IterMax                  *
+  * Nombre archivo imagen de salida: ArchivoImagen  *
+  * Intervalo a considerar: dominio                 *
+  ***************************************************
+
+  *************** DATOS DE LA EJECUCIÓN ****************************
+  * pixelXmax = 1024, pixelYmax = 1024                             *
+  * IterMax =   100                                                *
+  * ArchivoImagen = prueba1_I100_D0A.pgm prueba1_I100_D0B.pgm                *
+  * Dominio =  0                                                   *
+  * Intervalo para X: [  -2.000000000000000,   1.000000000000000]  *
+  * Intervalo para Y: [  -1.500000000000000,   1.500000000000000]  *
+  ******************************************************************
+
+
+Tiempo: 1.736465 segundos
+Minimo = 0.000000, Maximo = 25500.000000
+Minimo = 0.000000, Maximo = 255.000000
+
+ mandelbrot_sec 1024 1024 1000 prueba1_I1000_D1 1
+
+  *************** POSIBLES PARÁMETROS ***************
+  * Ancho imagen: pixelXmax                         *
+  * Alto imagen: pixelYmax                          *
+  * Numero de iteraciones: IterMax                  *
+  * Nombre archivo imagen de salida: ArchivoImagen  *
+  * Intervalo a considerar: dominio                 *
+  ***************************************************
+
+  *************** DATOS DE LA EJECUCIÓN ****************************
+  * pixelXmax = 1024, pixelYmax = 1024                             *
+  * IterMax =  1000                                                *
+  * ArchivoImagen = prueba1_I1000_D1A.pgm prueba1_I1000_D1B.pgm                *
+  * Dominio =  1                                                   *
+  * Intervalo para X: [  -1.023438000000000,  -0.992188000000000]  *
+  * Intervalo para Y: [  -0.285156000000000,  -0.250000000000000]  *
+  ******************************************************************
+
+
+Tiempo: 51.598216 segundos
+Minimo = 0.000000, Maximo = 255000.000000
+Minimo = 0.000000, Maximo = 254.000000
+
+mandelbrot_sec 1024 1024 2000 prueba1_I2000_D3 3
+
+  *************** POSIBLES PARÁMETROS ***************
+  * Ancho imagen: pixelXmax                         *
+  * Alto imagen: pixelYmax                          *
+  * Numero de iteraciones: IterMax                  *
+  * Nombre archivo imagen de salida: ArchivoImagen  *
+  * Intervalo a considerar: dominio                 *
+  ***************************************************
+
+  *************** DATOS DE LA EJECUCIÓN ****************************
+  * pixelXmax = 1024, pixelYmax = 1024                             *
+  * IterMax =  2000                                                *
+  * ArchivoImagen = prueba1_I2000_D3A.pgm prueba1_I2000_D3B.pgm                *
+  * Dominio =  3                                                   *
+  * Intervalo para X: [  -1.017523000000000,  -1.017493000000000]  *
+  * Intervalo para Y: [  -0.274065000000000,  -0.274032000000000]  *
+  ******************************************************************
+
+
+Tiempo: 25.992906 segundos
+Minimo = 0.000000, Maximo = 510000.000000
+Minimo = 0.000000, Maximo = 254.000000
+
+mandelbrot_sec 1024 1024 3000 prueba1_I3000_D4 4
+
+  *************** POSIBLES PARÁMETROS ***************
+  * Ancho imagen: pixelXmax                         *
+  * Alto imagen: pixelYmax                          *
+  * Numero de iteraciones: IterMax                  *
+  * Nombre archivo imagen de salida: ArchivoImagen  *
+  * Intervalo a considerar: dominio                 *
+  ***************************************************
+
+  *************** DATOS DE LA EJECUCIÓN ****************************
+  * pixelXmax = 1024, pixelYmax = 1024                             *
+  * IterMax =  3000                                                *
+  * ArchivoImagen = prueba1_I3000_D4A.pgm prueba1_I3000_D4B.pgm                *
+  * Dominio =  4                                                   *
+  * Intervalo para X: [  -1.019073986328125,  -1.017853283203125]  *
+  * Intervalo para Y: [  -0.267200347656250,  -0.265827066406250]  *
+  ******************************************************************
+
+
+mandelbrot_sec 1024 1024 1000 prueba1_I1000_D6 6
+
+  *************** POSIBLES PARÁMETROS ***************
+  * Ancho imagen: pixelXmax                         *
+  * Alto imagen: pixelYmax                          *
+  * Numero de iteraciones: IterMax                  *
+  * Nombre archivo imagen de salida: ArchivoImagen  *
+  * Intervalo a considerar: dominio                 *
+  ***************************************************
+
+  *************** DATOS DE LA EJECUCIÓN ****************************
+  * pixelXmax = 1024, pixelYmax = 1024                             *
+  * IterMax =  1000                                                *
+  * ArchivoImagen = prueba1_I1000_D6A.pgm prueba1_I1000_D6B.pgm                *
+  * Dominio =  6                                                   *
+  * Intervalo para X: [  -1.017502472140762,  -1.017501005865103]  *
+  * Intervalo para Y: [  -0.274054451612903,  -0.274052838709677]  *
+  ******************************************************************
+
+
+Tiempo: 36.590562 segundos
+Minimo = 0.000000, Maximo = 255000.000000
+Minimo = 0.000000, Maximo = 254.000000
+
+
+ mandelbrot_sec 1024 1024 4000 prueba1_I4000_D7 7
+
+  *************** POSIBLES PARÁMETROS ***************
+  * Ancho imagen: pixelXmax                         *
+  * Alto imagen: pixelYmax                          *
+  * Numero de iteraciones: IterMax                  *
+  * Nombre archivo imagen de salida: ArchivoImagen  *
+  * Intervalo a considerar: dominio                 *
+  ***************************************************
+
+  *************** DATOS DE LA EJECUCIÓN ****************************
+  * pixelXmax = 1024, pixelYmax = 1024                             *
+  * IterMax =  4000                                                *
+  * ArchivoImagen = prueba1_I4000_D7A.pgm prueba1_I4000_D7B.pgm                *
+  * Dominio =  7                                                   *
+  * Intervalo para X: [  -1.017695086999022,  -1.017389612903226]  *
+  * Intervalo para Y: [  -0.277217548387097,  -0.276873892473118]  *
+  ******************************************************************
+
+
+Tiempo: 38.629849 segundos
+Minimo = 0.000000, Maximo = 1019745.000000
+Minimo = 0.000000, Maximo = 255.000000
+
+mandelbrot_sec 1024 1024 2000 prueba1_I2000_D8 8
+
+  *************** POSIBLES PARÁMETROS ***************
+  * Ancho imagen: pixelXmax                         *
+  * Alto imagen: pixelYmax                          *
+  * Numero de iteraciones: IterMax                  *
+  * Nombre archivo imagen de salida: ArchivoImagen  *
+  * Intervalo a considerar: dominio                 *
+  ***************************************************
+
+  *************** DATOS DE LA EJECUCIÓN ****************************
+  * pixelXmax = 1024, pixelYmax = 1024                             *
+  * IterMax =  2000                                                *
+  * ArchivoImagen = prueba1_I2000_D8A.pgm prueba1_I2000_D8B.pgm                *
+  * Dominio =  8                                                   *
+  * Intervalo para X: [   0.272000000000000,   0.372000000000000]  *
+  * Intervalo para Y: [   0.480500000000000,   0.580500000000000]  *
+  ******************************************************************
+
+
+Tiempo: 71.282000 segundos
+Minimo = 0.000000, Maximo = 510000.000000
+Minimo = 0.000000, Maximo = 254.000000

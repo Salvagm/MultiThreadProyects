@@ -1,0 +1,16 @@
+Tiempo de latencia en red (Beta): 82.139999 (microSec) 
+numElementos: 32 	tamañoMensaje: 256 (bytes) 	Tau: 0.398438 (microSec) 	Tcom: 184.139999 
+numElementos: 64 	tamañoMensaje: 512 (bytes) 	Tau: 0.483398 (microSec) 	Tcom: 329.639999 
+numElementos: 128 	tamañoMensaje: 1024 (bytes) 	Tau: 0.477539 (microSec) 	Tcom: 571.139999 
+numElementos: 256 	tamañoMensaje: 2048 (bytes) 	Tau: 0.414551 (microSec) 	Tcom: 931.139999 
+numElementos: 512 	tamañoMensaje: 4096 (bytes) 	Tau: 0.338257 (microSec) 	Tcom: 1467.639999 
+numElementos: 1024 	tamañoMensaje: 8192 (bytes) 	Tau: 0.277954 (microSec) 	Tcom: 2359.139999 
+numElementos: 2048 	tamañoMensaje: 16384 (bytes) 	Tau: 0.235596 (microSec) 	Tcom: 3942.139999 
+numElementos: 4096 	tamañoMensaje: 32768 (bytes) 	Tau: 0.209106 (microSec) 	Tcom: 6934.139999 
+numElementos: 8192 	tamañoMensaje: 65536 (bytes) 	Tau: 0.192879 (microSec) 	Tcom: 12722.639999 
+numElementos: 16384 	tamañoMensaje: 131072 (bytes) 	Tau: 0.184338 (microSec) 	Tcom: 24243.639999 
+numElementos: 32768 	tamañoMensaje: 262144 (bytes) 	Tau: 0.178862 (microSec) 	Tcom: 46969.639999 
+numElementos: 65536 	tamañoMensaje: 524288 (bytes) 	Tau: 0.175515 (microSec) 	Tcom: 92102.639999 
+numElementos: 131072 	tamañoMensaje: 1048576 (bytes) 	Tau: 0.173593 (microSec) 	Tcom: 182107.639999 
+numElementos: 262144 	tamañoMensaje: 2097152 (bytes) 	Tau: 0.173154 (microSec) 	Tcom: 363211.639999 
+numElementos: 524288 	tamañoMensaje: 4194304 (bytes) 	Tau: 0.174515 (microSec) 	Tcom: 732051.139999 
